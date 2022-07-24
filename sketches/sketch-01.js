@@ -15,7 +15,6 @@ const sketch = () => {
     const ix = width * 0.17;
     const iy = height * 0.17;
     let x, y;
-
     const off = width * 0.02;
 
     for (let i = 0; i < 5; i++) {
